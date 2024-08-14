@@ -1,5 +1,8 @@
 # AyurPhenoCluster
-**Supplementray Dataset**
+**Supplementray_Note**
+Pilot study
+
+**Supplementray Tables**
 
 
 **Table S1:** Annotation of Nanatmaj features to HPO-IDs
