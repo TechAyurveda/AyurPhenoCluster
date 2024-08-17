@@ -1,5 +1,12 @@
 # AyurPhenoCluster
-**Supplementray_Note**
+
+**Supplementray Information**
+ 
+  1. SI Methods
+  2. SI Figures S1-S4
+     
+**Supplementray Note**
+
 Pilot study
 
 **Supplementray Tables**
