@@ -19,6 +19,6 @@ Pilot study
 
 **Table S3(a-c):** Mapping of Nanatmaj vikaras to HPO equivalent term id's and term names. The HPO Id's with prefix nV, nP and nK is added to the HPO terms included in version used in manuscript( May version, dated 2022-10-05) 
 
-**Table S4:** Diseases in EM clusters with associated genes
+**Table S4:** Diseases in EM clusters (AyurPhenoClusters) with associated genes
 
-**Table S5:** Overlapping genes between EM clusters to known genes of ciliopathy from CiliaMiner and CiliaCarta database
+**Table S5:** Overlapping genes between EM clusters (AyurPhenoClusters) to known genes of ciliopathy from CiliaMiner and CiliaCarta database
