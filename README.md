@@ -1,16 +1,17 @@
 # AyurPhenoCluster
 
+**Supplementray Note**
+
+Pilot study
+
+
 **Supplementray Information**
  
   1. SI Methods
   2. SI Figures S1-S4
      
-**Supplementray Note**
-
-Pilot study
 
 **Supplementray Tables**
-
 
 **Table S1:** Annotation of Nanatmaj features to HPO-IDs
 
