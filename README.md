@@ -17,7 +17,7 @@ Pilot study
 
 **Table S2:** HPO diseases with V,P, K , nV, nP, nK feature counts (May version, dated 2022-10-05)
 
-**Table S3(a-c):** Mapping of Nanatmaj vikaras to HPO equivalent term id's and term names. The HPO Id's with prefix NV, NP and NK is added to the HPO terms included in version used in manuscript( May version, dated 2022-10-05) 
+**Table S3(a-c):** Mapping of Nanatmaj vikaras to HPO equivalent term id's and term names. The HPO Id's with prefix nV, nP and nK is added to the HPO terms included in version used in manuscript( May version, dated 2022-10-05) 
 
 **Table S4:** Diseases in EM clusters with associated genes
 
