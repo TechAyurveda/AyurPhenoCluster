@@ -13,11 +13,11 @@ Pilot study
 
 **Supplementary Tables**
 
-**Table S1:** Annotation of Nanatmaj features to HPO-IDs
+**Table S1:** Annotation of Nanatmaj features to HPO terms
 
-**Table S2:** HPO diseases with V,P, K , nV, nP, nK feature counts (May version, dated 2022-10-05)
+**Table S2:** HPO diseases with _V,P, K , nV, nP, nK_ feature counts (May version, dated 2022-10-05)
 
-**Table S3(a-c):** Mapping of Nanatmaj vikaras to HPO equivalent term id's and term names. The HPO Id's with prefix nV, nP and nK is added to the HPO terms included in version used in manuscript( May version, dated 2022-10-05) 
+**Table S3(a-c):** Mapping of Nanatmaj vikaras to HPO equivalent term id's and term names. The HPO Id's with prefix _nV, nP_ and _nK_ is added to the HPO terms included in version used in manuscript( May version, dated 2022-10-05). Not found is abbreviated as "NA" 
 
 **Table S4:** Diseases in EM clusters (AyurPhenoClusters) with associated genes
 
