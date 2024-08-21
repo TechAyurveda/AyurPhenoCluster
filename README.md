@@ -2,7 +2,8 @@
 
 **Supplementary Note**
 
-Pilot study
+1. Pilot study
+2. Textual descriptions by Ayurveda related to manifestation of ciliopathies
 
 
 **Supplementary Information**
