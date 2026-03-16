@@ -1,14 +1,5 @@
 # AyurPhenoCluster
 
-
-**Supplementary Information**
- 
-  1. Pilot study
-  2. SI Methods
-  3. SI Results
-  4. SI Text
-  5. Textual descriptions by Ayurveda related to manifestation of ciliopathies
-
 **Supplementary Tables**
 
 **Table S1:** HPO diseases with V,P, K , nV, nP, nK feature counts
